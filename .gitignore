@@ -109,4 +109,5 @@ dist
 .AppleDouble
 .LSOverride
 .vscode
+yarn.lock
 build/
